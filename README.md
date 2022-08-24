@@ -6,12 +6,18 @@ Check the Wiki tab for helpful links for getting started
 
 Check here regularly for updates.
 
-Submit discussion questions here: https://forms.gle/KuPvy1VEW5ur84Es7
+Submit discussion questions here: https://forms.gle/5HfiYqHrfNVGYWPU6 
 
 The associated folders are:
 
+Homework: Jupyter notebook templates for each homework.
+
+Project: Example final project for demonstration purposes.
+
+Labs: Jupyter notebooks used for lab sections (to be run in Google Colab)
+
+Python: Temporary holding spot for class-related code
+
 Readings: PDFs of all readings can be found here. Items that are not in the public domain will be on Canvas.
 
-Code: Central location of all class-oriented code.
-
-Labs: Jupyter notebook labs.
+Slides: PDFs of class slides.
