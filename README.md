@@ -6,7 +6,7 @@ Check the Wiki tab for helpful links for getting started
 
 Check here regularly for updates.
 
-Submit discussion questions here: https://forms.gle/5HfiYqHrfNVGYWPU6 
+Submit answers to discussion questions here: https://forms.gle/5HfiYqHrfNVGYWPU6 
 
 The associated folders are:
 
