@@ -6,9 +6,7 @@ Check the Wiki tab for helpful links for getting started
 
 Check here regularly for updates.
 
-Submit answers to discussion questions here: https://forms.gle/W8RazZmjKwFgR6HL7
-
-Labs and exercises can be found here: https://coaxlab.github.io/BIX-book/intro.html
+Labs can be found here: https://coaxlab.github.io/BIX-book/intro.html
 
 The associated folders are:
 
